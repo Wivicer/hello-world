@@ -1,2 +1,2 @@
 # hello-world
-A first repository, to learn how to use github
+I need to learn github.  I guess that's what I'm doing here.
